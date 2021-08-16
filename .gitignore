@@ -7,5 +7,5 @@ sites/site*/public/admin/
 sites/site*/public/setup/
 sites/site*/public/theme/
 textpattern/
+.ipynb_checkpoints
 HISTORY.txt
-README.txt
