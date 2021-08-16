@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#contents">Contents</a> •
+  <a href="#table-of-contents">Contents</a> •
   <a href="#features">Features</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a>
