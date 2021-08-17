@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://pytorch.org/"><img src="images/pytorch-tutorial-header-gotg.png"></a>
+  <a href="https://pytorch.org/"><img src="assets/images/pytorch-tutorial-header-gotg.png"></a>
 </h1>
 
 <p align="center">
