@@ -19,6 +19,47 @@ This repository supplies code and tips for deep learning's researchers and/or pr
 
 ## Table of Contents
 
+<ol>
+  <li>Installation</li>
+  <li>Basics
+    <ol>
+      <li>Tensors</li>
+      <li>Autograd</li>
+      <li>Backpropagation</li>
+      <li>Gradient Descent</li>
+      <li>Softmax and Crossentropy</li>
+      <li>Activation Functions</li>
+      <li>Training Pipeline</li>
+      <li>Dataset and Dataloader</li>
+      <li>Dataset Transforms</li>
+    </ol>
+  </li>
+  <li>Supervised Learning
+    <ol>
+      <li>Linear Regression</li>
+      <li>Logistic Regression</li>
+      <li>Feedforward Neural Networks</li>
+      <li>Convolutional Neural Networks</li>
+      <!-- <li>Recurrent Neural Networks</li> -->
+    </ol>
+  </li>
+  <li>Unsupervised Learning
+    <ol>
+    </ol>
+  </li>
+  <li>Reinforcement Learning
+    <ol>
+    </ol>
+  </li>
+  <!-- <li>
+    <ol>
+    </ol>
+  </li> -->
+  <li>Transfer Learning</li>
+  <li>Tensorboard</li>
+  <li>Save and Load Models</li>
+</ol>
+
 <!-- ## Features -->
 
 ## Credits
