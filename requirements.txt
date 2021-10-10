@@ -1,0 +1,6 @@
+pytorch
+torchaudio
+torchvision
+numpy
+matplotlib
+sklearn
