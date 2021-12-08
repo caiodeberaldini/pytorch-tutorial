@@ -65,3 +65,4 @@ This repository supplies code and tips for deep learning's researchers and/or pr
 ## Credits
 
 ## Support
+Contact: caio.netto@usp.br
