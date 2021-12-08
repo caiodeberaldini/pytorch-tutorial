@@ -17,10 +17,18 @@
 
 This repository supplies code and tips for deep learning's researchers and/or pratictioners who crave to learn <a href="https://pytorch.org/">Pytorch</a>. It's based on <a href="https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html">Pytorch Deep Learning begginers' tutorial</a>, <a href="https://www.youtube.com/watch?v=c36lUUr864M">Python Engineer's Deep Learning with Pytorch free course</a>, and my own notes. I'll update it frequently, adding features not only restricted to the field of Deep Learning, but also from the more broad AI field. Hope you enjoy!
 
+## Installation
+
+<ul>
+ <li> Go to <a href="https://pytorch.org/">Pytorch</a> website</li>
+ <li> Select appropriate version (preferable the stable one), OS, programming language (e.g., Python for this tutorial), and CUDA version or CPU only</li>
+ <li> Set a virtual environment and install</li>
+ <li> Test if everything is correct, trying to import torch package</li>
+</ul>
+
 ## Table of Contents
 
 <ol>
-  <li>Installation</li>
   <li>Basics
     <ol>
       <li>Tensors</li>
